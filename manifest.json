@@ -1,0 +1,15 @@
+{
+  "manifest_version": "1.0",
+  "org": "chardet",
+  "repo": "chardet.github.io",
+  "versions": [
+    {
+      "commit": "489dd0b0b56fa8767d95d33632def6972d9118e5",
+      "parsed_at": "2026-10-11T20:27:15.723171+00:00",
+      "filetree": "filetree/489dd0b0b56fa8767d95d33632def6972d9118e5.nq.gz"
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
