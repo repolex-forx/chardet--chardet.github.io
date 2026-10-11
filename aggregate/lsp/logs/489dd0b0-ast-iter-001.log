@@ -1,0 +1,7 @@
+[2026-10-11T20:28:28Z] === AST ITERATION 1 START | repo=chardet/chardet.github.io sha=489dd0b0 ===
+[2026-10-11T20:28:28Z] [iter=1] PHASE START: ast repo=chardet/chardet.github.io sha=489dd0b0
+[2026-10-11T20:28:28Z] [iter=1] Building AST aggregate chunks
+[2026-10-11T20:28:28Z] [iter=1] AST chunks built count=1 triples=0
+[2026-10-11T20:28:28Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/489dd0b0b56fa8767d95d33632def6972d9118e5/.complete
+[2026-10-11T20:28:28Z] [iter=1] PHASE END: ast elapsed_s=0 elapsed_min=0.0
+[2026-10-11T20:28:28Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
